@@ -1,5 +1,14 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on solving Leetcode Problems to improve on my Algo and Datastructures and Problem solving skills. Also I am working on a school project to build a web application for hotel management.
+- 🌱 I’m currently learning Front End Frameworks like React.Js
+- 👯 I’m looking to collaborate on cool projects or just problem solving on leetcode and discussing System Design Concepts. Just Ping me.
+- 🤔 I’m looking for help with wrapping my head around Machine Learning
+- 💬 Ask me about Building Web Applications Using React.Js, Spring Framework, 
+- 📫 Reach me At: 
+          LinkedIn : https://www.linkedin.com/in/pramodh-jajala/
+          Email: durgapramodh10dj95@gmail.com
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I have a deep passion for Indian mythology and controversies, and you can often find me engrossed in books exploring the rich tales and intriguing debates surrounding them.
 <!--
 **dj1095/dj1095** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
