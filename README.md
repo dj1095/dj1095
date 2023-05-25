@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on solving Leetcode Problems to improve on my Algo and Datastructures and Problem solving skills. Also I am working on a school project to build a web application for hotel management.
-- 🌱 I’m currently learning Front End Frameworks like React.Js
+- 🌱 I’m currently learning Front End Frameworks like React.Js and High Level System Design Concepts.
 - 👯 I’m looking to collaborate on cool projects or just problem solving on leetcode and discussing System Design Concepts. Just Ping me.
-- 🤔 I’m looking for help with wrapping my head around Machine Learning
+- 🤔 I’m looking for help with wrapping my head around ML systems and their design in Large Scale Systems.
 - 💬 Ask me about Building Web Applications Using React.Js, Spring Framework, 
 - 📫 Reach me At: 
 - LinkedIn : https://www.linkedin.com/in/pramodh-jajala/  
