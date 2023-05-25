@@ -10,7 +10,6 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I have a deep passion for Indian mythology and controversies, and you can often find me engrossed in books exploring the rich tales and intriguing debates surrounding them.
 
-### LeetCode Marathon 
-  Profile - https://leetcode.com/dj1095/
+### LeetCode Marathon (https://leetcode.com/dj1095/)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/dj1095?ext=heatmap)
