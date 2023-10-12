@@ -12,4 +12,4 @@
 
 ### LeetCode Marathon (https://leetcode.com/dj1095/)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&font=Bungee%20Shade)
+![LeetCode Stats](https://leetcard.jacoblin.cool/dj1095?theme=unicorn&font=Bungee%20Shade)
