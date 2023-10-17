@@ -8,7 +8,7 @@
 - Email: durgapramodh10dj95@gmail.com
 - ⚡ Fun fact: I love to read Indian mythology through a modern lens, and you can often find me engrossed in books exploring the rich tales and intriguing debates surrounding them.
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=c,python,php,java,spring,hibernate,bootstap,css,js,angular,react,vue,mysql,graphql,kafka,jenkins,aws,gcp,docker,kubernetes,github,git,postman&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,python,php,java,spring,hibernate,bootstrap,css,js,angular,react,vue,mysql,graphql,kafka,jenkins,aws,gcp,docker,kubernetes,github,git,postman&perline=8)](https://skillicons.dev)
 
 ### LeetCode Marathon (https://leetcode.com/dj1095/)
 
