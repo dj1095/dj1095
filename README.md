@@ -6,7 +6,7 @@
 - 📫 Reach Me At: 
 - LinkedIn : https://www.linkedin.com/in/pramodh-jajala/  
 - Email: durgapramodh10dj95@gmail.com
-- ⚡ Fun fact: I have a deep passion for Indian mythology through a modern lens, and you can often find me engrossed in books exploring the rich tales and intriguing debates surrounding them.
+- ⚡ Fun fact: I love to read Indian mythology through a modern lens, and you can often find me engrossed in books exploring the rich tales and intriguing debates surrounding them.
 
 ### LeetCode Marathon (https://leetcode.com/dj1095/)
 
