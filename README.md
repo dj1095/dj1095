@@ -13,3 +13,7 @@
 ### LeetCode Marathon (https://leetcode.com/dj1095/)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dj1095?theme=unicorn&font=Bungee%20Shade)
+
+### GitHub Stats
+
+[![](https://visitcount.itsvg.in/api?id=rammcodes&icon=0&color=0)](https://visitcount.itsvg.in)
