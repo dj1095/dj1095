@@ -15,5 +15,4 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dj1095?theme=unicorn&font=Bungee%20Shade)
 
 ### GitHub Stats
-
-[![](https://visitcount.itsvg.in/api?id=dj1095&label=Profile%20Views&color=3&icon=2&pretty=true)](https://visitcount.itsvg.in)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dj1095&layout=compact)
