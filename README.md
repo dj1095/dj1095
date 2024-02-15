@@ -14,5 +14,3 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dj1095?theme=unicorn&font=Bungee%20Shade)
 
-### GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dj1095&hide_progress=true)
